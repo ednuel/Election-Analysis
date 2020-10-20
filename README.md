@@ -14,3 +14,4 @@
 #### 3. The election winner is Diana DeGette with 73.8% of votes
 
 ## Election-Audit summary
+### This script can be helpful with all elections just by chaning several inputs like the number of votes and the candidates who are recieving votes.
