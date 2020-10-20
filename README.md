@@ -4,6 +4,8 @@
 
 ### Our goal was to create a Python script to retrieve and calculate election result that can filter out totals votes and percentage votes accquired
 
+![](analysis/Screen Shot Election_analysis.png)
+
 ## Election-Audit results
 
 ### With our [election_analysis.txt](analysis/election_analysis.txt) we can easier come to the conclusion: 
