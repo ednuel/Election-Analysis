@@ -4,7 +4,7 @@
 
 ### Our goal was to create a Python script to retrieve and calculate election result that can filter out totals votes and percentage votes accquired
 
-![](analysis/Screen_Shot_Election_analysis.png)
+![](analysis/Screen Shot Election_analysis.png)
 
 ## Election-Audit results
 
